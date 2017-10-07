@@ -1,4 +1,4 @@
-var fs = require("fs");
+
 
 var ClozeCard = function (text, cloze) { 
     this.fullText = text;

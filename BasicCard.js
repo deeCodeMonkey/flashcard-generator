@@ -1,4 +1,4 @@
-var fs = require("fs");
+
 
 var BasicCard = function (front, back) {
     this.front = front;
